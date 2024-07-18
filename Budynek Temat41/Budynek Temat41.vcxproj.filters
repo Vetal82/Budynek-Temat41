@@ -18,8 +18,19 @@
     <ClCompile Include="Budynek Temat41.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Apartment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="Office.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Apartment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Office.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
