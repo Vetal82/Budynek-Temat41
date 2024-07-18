@@ -18,5 +18,8 @@
     <ClCompile Include="Budynek Temat41.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Office.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
